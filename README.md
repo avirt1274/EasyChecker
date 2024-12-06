@@ -20,4 +20,4 @@ EasyChecker — это инструмент для обнаружения чит
 
 ## Установка
 
-Для того чтобы установить EasyChecker, [кликните здесь](<https://mega.nz/file/YRQyVYpT#We9Py-_pH_cdnNFhQJF14ogE12Zsg_RFhzZudJny0W4>)
+Для того чтобы установить EasyChecker, [кликните здесь](<https://avirt1274.github.io/avirt1274-site/easychecker.html>)
